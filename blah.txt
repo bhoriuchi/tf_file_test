@@ -1,0 +1,27 @@
+{
+  "commit": "078834549d7aa74bc4049715182bbc6f3c039dde",
+  "abbreviated_commit": "0788345",
+  "tree": "28683249ef91c50942dd346ef7e0ff3bfafcb22b",
+  "abbreviated_tree": "2868324",
+  "parent": "db2fd9ae33103b221775712343ac4b445d4bf538",
+  "abbreviated_parent": "db2fd9a",
+  "refs": "HEAD -> master, origin/master",
+  "encoding": "",
+  "subject": "changing file to outside root module dir",
+  "sanitized_subject_line": "changing-file-to-outside-root-module-dir",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "Branden Horiuchi",
+    "email": "Branden.Horiuchi@blackline.com",
+    "date": "Tue, 27 Aug 2019 13:44:27 -0700"
+  },
+  "commiter": {
+    "name": "Branden Horiuchi",
+    "email": "Branden.Horiuchi@blackline.com",
+    "date": "Tue, 27 Aug 2019 13:44:27 -0700"
+  }
+},
