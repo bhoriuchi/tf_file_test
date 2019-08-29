@@ -1,6 +1,6 @@
 resource "local_file" "foo" {
   provisioner "local-exec" {
-    command = "sleep 300s"
+    command = "sleep 20s"
   }
   content = "foo"
   filename = "/tmp/foo.txt"
